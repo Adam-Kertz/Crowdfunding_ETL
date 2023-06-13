@@ -11,7 +11,7 @@ https://github.com/Adam-Kertz/Crowdfunding_ETL/blob/main/Resources/crowdfunding.
 <br>
 The following python file is used to transform the data:<br>
 https://github.com/Adam-Kertz/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Starter_Code_TWade_AKertz.ipynb<br>
-*comments within the above file provide detailed descriptions of the types of transformations happening<br>
+*comments within the above file provide detailed descriptions of the types of transformations performed<br>
 <br>
 and produces the following 4 csv files:<br>
 <br>
