@@ -1,4 +1,5 @@
 # Crowdfunding_ETL
+### Project Introduction and File Locations
 Boot Camp Project Page:<br>
 https://courses.bootcampspot.com/courses/3483/assignments/52329?module_item_id=937307<br>
 <br>
@@ -24,3 +25,11 @@ https://github.com/Adam-Kertz/Crowdfunding_ETL/blob/main/Resources/subcategory.c
 Important Contact Information:<br>
 https://github.com/Adam-Kertz/Crowdfunding_ETL/blob/main/Resources/contacts.csv<br>
 <br>
+The database was created using the following schematic design<br>
+https://github.com/Adam-Kertz/Crowdfunding_ETL/blob/main/Resources/Database%20Schema/Database%20Schema.jpg<br>
+Exporting the above diagram produced the following import code<br>
+https://github.com/Adam-Kertz/Crowdfunding_ETL/blob/main/Resources/Database%20Schema/Database%20Import%20Text.txt<br>
+W
+### Steps to Produce Results
+##### 1) Run the jupyter notebook file
+https://github.com/Adam-Kertz/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Starter_Code_TWade_AKertz.ipynb
